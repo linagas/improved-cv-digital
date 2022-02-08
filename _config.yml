@@ -1,3 +1,9 @@
 theme: jekyll-theme-architect
-title: 💻📄 **Leila Inagas**🌟
-description: FullStack Developer
+title: 📄 Leila Inagas 💻
+description: Full Stack Developer
+theme_skin: berry
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed
