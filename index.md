@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Ingeniera en Informática
+ [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leiladip33@gmail.com)
+ [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leila-deyanira-inagas/)
 
-You can use the [editor on GitHub](https://github.com/linagas/improved-cv-digital/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 👩🏼‍💻 Experiencia técnica
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> **Ingeniero Fullstack** [Ingeniería de Sistemas O.G.R. S.A.](https://www.linkedin.com/company/open-green-road/mycompany/) (Enero de 2020 - presente)
+Plataforma edtech que busca impactar a las comunidades educativas.
+> - Implementación de funciones que mejoran la interfaz de usuario y la accesibilidad de la plataforma
+> - Soporte y mejoras de plataformas web ofrecidas la empresa.
+> - Desarrollo de nuevas funcionalidades.
+> - Implementación de Test unitarios y de integración
+> - Tecnologías utilizadas: Angular, React, Vue, TypeScript, Jest, Jazmine, Cypress, HTML, CSS, Sass, Express, Ruby on rails, GraphQl, MySql, Bootstrap, Material UI.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+> **Fullstack Developer Frontend** [Georesearch LATAM](https://www.linkedin.com/company/georesearchlatam/) (Julio 2019 - Diciembre 2019)
+Plataforma de servicios de Geointeligencia de Información.
+> - Desarrollar nuevas funcionalidades para mejorar las métricas de la plataforma.
+> - Integración de microservicios.
+> - Tecnologías utilizadas: React, Jest, Express, PHP, PostgreSql, Serverless, Ant Design.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+> **Ingeniero de soporte de TI** [Cumplo](https://www.linkedin.com/company/cumplo/) (Enero 2019 - Julio 2019)
+Plataforma de servicios de Geointeligencia de Información.
+> - Desarrollar nuevas funcionalidades para mejorar las métricas de la plataforma.
+> - Implementación de funciones que mejoran la interfaz de usuario y la accesibilidad de la plataforma
+> - Soporte a Plataforma web. 
+> - Gestión de incidencias vía Freshdesk. 
+> - Implementación de nuevas funcionalidades con el fin de llevar la transformación digital a todas las áreas de negocio.
+> - Corrección de defectos en la plataforma.
+> - Tecnologías utilizadas: Ruby on rails, PostgreSql, Freshdesk, Sass, Bootstrap.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/linagas/improved-cv-digital/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> **Desarrollador de Frontend** [Cumplo](https://www.linkedin.com/company/chattigo_principal/) (Noviembre 2017 - Enero 2019)
+Plataforma de servicios de Geointeligencia de Información.
+> - Integración nuevas funcionalidades para mejorar las métricas de la plataforma.
+> - Implementación de módulos administrables para la plataforma de clientes de Chattigo. 
+> - Definición y colaboración en los procesos de documentación. 
+> - Integracion del SSO con facebook.
+> - Tecnologías utilizadas: AngularJs, Facebook Api, Material UI, Scss.
