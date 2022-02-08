@@ -10,7 +10,7 @@ Plataforma edtech que busca impactar a las comunidades educativas.
 > - Soporte y mejoras de plataformas web ofrecidas la empresa.
 > - Desarrollo de nuevas funcionalidades.
 > - Implementación de Test unitarios y de integración
-> - Tecnologías utilizadas: Angular, React, Vue, TypeScript, Jest, Jazmine, Cypress, HTML, CSS, Sass, Express, Ruby on rails, GraphQl, MySql, Bootstrap, Material UI.
+> - Tecnologías utilizadas: Angular, React, Vue, TypeScript, Jest, Jazmine, Cypress, HTML, CSS, Sass, Express, Ruby on rails, GraphQl, MySql, Bootstrap, Material UI, API Rest.
 
 
 
@@ -18,7 +18,7 @@ Plataforma edtech que busca impactar a las comunidades educativas.
 Plataforma de servicios de Geointeligencia de Información.
 > - Desarrollar nuevas funcionalidades para mejorar las métricas de la plataforma.
 > - Integración de microservicios.
-> - Tecnologías utilizadas: React, Jest, Express, PHP, PostgreSql, Serverless, Ant Design.
+> - Tecnologías utilizadas: React, Jest, Express, PHP, PostgreSql, Serverless, Ant Design, API Rest, Postman.
 
 
 > **Ingeniero de soporte de TI** [Cumplo](https://www.linkedin.com/company/cumplo/) (Enero 2019 - Julio 2019)
@@ -37,4 +37,16 @@ Plataforma de servicios de Geointeligencia de Información.
 > - Implementación de módulos administrables para la plataforma de clientes de Chattigo. 
 > - Definición y colaboración en los procesos de documentación. 
 > - Integracion del SSO con facebook.
-> - Tecnologías utilizadas: AngularJs, Facebook Api, Material UI, Scss.
+> - Tecnologías utilizadas: AngularJs, Facebook Api, Material UI, Scss, API Rest.
+
+## 💬 Idiomas
+    - Inglés : B2
+    - Español: nativo 
+
+## 👩🏼‍🎓 Educación
+
+    - Ingeniería en Informática de la Universidad Politecnica Territorial de los Altos Mirandinos Cecilio Acosta - Los Teques, Miranda, Venezuela (2014 - 2016)
+
+    - T.S.U Informatica del Colegio Universitario de los Teques Cecilio Acosta - Los Teques, Miranda, Venezuela (2010 - 2013)
+
+
