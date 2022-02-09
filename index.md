@@ -1,6 +1,6 @@
 ## Ingeniera en Informática
-    Ingeniera en Informática en constante aprendizaje, dedicada, responsable, constante, con iniciativa, con excelentes habilidades interpersonales y tolerancia al cambio con sentido.
-     
+> Ingeniera en Informática en constante aprendizaje, dedicada, responsable, constante, con iniciativa, con excelentes habilidades interpersonales y tolerancia al cambio con sentido.
+
  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leiladip33@gmail.com)
  [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leila-deyanira-inagas/)
 
