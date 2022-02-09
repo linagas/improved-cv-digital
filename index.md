@@ -56,8 +56,8 @@ i¿Implementación de soluciones tecnológicas orientadas al desarrollo de softw
 
 ## 👩🏼‍🎓 Educación
 
-    - Ingeniería en Informática de la Universidad Politecnica Territorial de los Altos Mirandinos Cecilio Acosta - Los Teques, Miranda, Venezuela (2014 - 2016)
+> Ingeniería en Informática de la Universidad Politecnica Territorial de los Altos Mirandinos Cecilio Acosta - Los Teques, Miranda, Venezuela (2014 - 2016)
 
-    - T.S.U Informatica del Colegio Universitario de los Teques Cecilio Acosta - Los Teques, Miranda, Venezuela (2010 - 2013)
+> T.S.U Informatica del Colegio Universitario de los Teques Cecilio Acosta - Los Teques, Miranda, Venezuela (2010 - 2013)
 
 
