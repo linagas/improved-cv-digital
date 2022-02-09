@@ -3,6 +3,9 @@
 
  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leiladip33@gmail.com)
  [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leila-deyanira-inagas/)
+ [![General badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linagas)
+
+ 
 
 ## 👩🏼‍💻 Experiencia técnica
 
@@ -33,7 +36,7 @@ Plataforma de financiamiento para empresas (Fintech).
 > - Corrección de defectos en la plataforma.
 > - Tecnologías utilizadas: Ruby on rails, PostgreSql, Freshdesk, Sass, Bootstrap.
 
-> **Desarrollador de Frontend** [Cumplo](https://www.linkedin.com/company/chattigo_principal/) (Noviembre 2017 - Enero 2019)
+> **Desarrollador de Frontend** [Chattigo](https://www.linkedin.com/company/chattigo_principal/) (Noviembre 2017 - Enero 2019)
 Plataforma que incorporar nuevas tecnologías de atención digital a tu empresa.
 > - Integración nuevas funcionalidades para mejorar las métricas de la plataforma.
 > - Implementación de módulos administrables para la plataforma de clientes de Chattigo. 
