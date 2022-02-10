@@ -1,5 +1,5 @@
 ## Ingeniera en Informática
-> Ingeniera en Informática en constante aprendizaje, dedicada, responsable, constante, con iniciativa, con excelentes habilidades interpersonales y tolerancia al cambio con sentido.
+> Ingeniera en Informática en constante aprendizaje, dedicada, responsable, con iniciativa, con excelentes habilidades interpersonales y tolerancia al cambio con sentido.
 
  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leiladip33@gmail.com)
  [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leila-deyanira-inagas/)
@@ -28,7 +28,7 @@ Plataforma de servicios de Geointeligencia de Información.
 
 > **Ingeniero de soporte de TI** [Cumplo](https://www.linkedin.com/company/cumplo/) (Enero 2019 - Julio 2019)
 Plataforma de financiamiento para empresas (Fintech).
-> - Desarrollar nuevas funcionalidades para mejorar las métricas de la plataforma.
+> - Desarrollo de nuevas funcionalidades para mejorar las métricas de la plataforma.
 > - Implementación de funciones que mejoran la interfaz de usuario y la accesibilidad de la plataforma
 > - Soporte a Plataforma web. 
 > - Gestión de incidencias vía Freshdesk. 
@@ -45,7 +45,7 @@ Plataforma que incorporar nuevas tecnologías de atención digital a tu empresa.
 > - Tecnologías utilizadas: AngularJs, Facebook Api, Material UI, Scss, API Rest.
 
 > **Software Developer** [Cgts Corp](https://www.linkedin.com/company/cgts-corp/) (Mayo 2015 - Noviembre 2017)
-i¿Implementación de soluciones tecnológicas orientadas al desarrollo de software a la medida.
+Implementación de soluciones tecnológicas orientadas al desarrollo de software a la medida.
 > - Diseño, desarrollo, implementación y mantenimiento de aplicaciones web basadas en Python/Django.
 > - Implementación de módulos administrables para la plataforma de Mintur. 
 > - Definición y colaboración en los procesos de documentación, manuales de usuario. 
