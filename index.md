@@ -9,7 +9,7 @@
 
 ## 👩🏼‍💻 Experiencia técnica
 
-> **Ingeniero Fullstack** [Ingeniería de Sistemas O.G.R. S.A.](https://www.linkedin.com/company/open-green-road/mycompany/) (Enero de 2020 - presente)
+## > **Ingeniero Fullstack** [Ingeniería de Sistemas O.G.R.S.A.](https://www.linkedin.com/company/open-green-road/mycompany/) (Enero de 2020 - presente)
 Plataforma edtech que busca impactar a las comunidades educativas.
 > - Implementación de funciones que mejoran la interfaz de usuario y la accesibilidad de la plataforma
 > - Soporte y mejoras de plataformas web ofrecidas la empresa.
@@ -21,7 +21,7 @@ Plataforma edtech que busca impactar a las comunidades educativas.
 
 > **Fullstack Developer Frontend** [Georesearch LATAM](https://www.linkedin.com/company/georesearchlatam/) (Julio 2019 - Diciembre 2019)
 Plataforma de servicios de Geointeligencia de Información.
-> - Desarrollar nuevas funcionalidades para mejorar las métricas de la plataforma.
+> - Desarrollo nuevas funcionalidades para mejorar las métricas de la plataforma.
 > - Integración de microservicios.
 > - Tecnologías utilizadas: React, Jest, Express, PHP, PostgreSql, Serverless, Ant Design, API Rest, Postman.
 
@@ -30,8 +30,8 @@ Plataforma de servicios de Geointeligencia de Información.
 Plataforma de financiamiento para empresas (Fintech).
 > - Desarrollo de nuevas funcionalidades para mejorar las métricas de la plataforma.
 > - Implementación de funciones que mejoran la interfaz de usuario y la accesibilidad de la plataforma
-> - Soporte a Plataforma web. 
-> - Gestión de incidencias vía Freshdesk. 
+> - Soporte a Plataforma web.
+> - Gestión de incidencias vía Freshdesk.
 > - Implementación de nuevas funcionalidades con el fin de llevar la transformación digital a todas las áreas de negocio.
 > - Corrección de defectos en la plataforma.
 > - Tecnologías utilizadas: Ruby on rails, PostgreSql, Freshdesk, Sass, Bootstrap.
@@ -39,23 +39,23 @@ Plataforma de financiamiento para empresas (Fintech).
 > **Desarrollador de Frontend** [Chattigo](https://www.linkedin.com/company/chattigo_principal/) (Noviembre 2017 - Enero 2019)
 Plataforma que incorporar nuevas tecnologías de atención digital a tu empresa.
 > - Integración nuevas funcionalidades para mejorar las métricas de la plataforma.
-> - Implementación de módulos administrables para la plataforma de clientes de Chattigo. 
-> - Definición y colaboración en los procesos de documentación. 
+> - Implementación de módulos administrables para la plataforma de clientes de Chattigo.
+> - Definición y colaboración en los procesos de documentación.
 > - Integracion del SSO con facebook.
 > - Tecnologías utilizadas: AngularJs, Facebook Api, Material UI, Scss, API Rest.
 
 > **Software Developer** [Cgts Corp](https://www.linkedin.com/company/cgts-corp/) (Mayo 2015 - Noviembre 2017)
 Implementación de soluciones tecnológicas orientadas al desarrollo de software a la medida.
 > - Diseño, desarrollo, implementación y mantenimiento de aplicaciones web basadas en Python/Django.
-> - Implementación de módulos administrables para la plataforma de Mintur. 
-> - Definición y colaboración en los procesos de documentación, manuales de usuario. 
+> - Implementación de módulos administrables para la plataforma de Mintur.
+> - Definición y colaboración en los procesos de documentación, manuales de usuario.
 > - Levantamiento de información y análisis de requerimientos funcionales y no funcionales, elaboración de casos de uso.
-> - Capacitar a los miembros nuevos del equipo de desarrolladores
+> - Capacitacion de los miembros nuevos del equipo de desarrolladores
 > - Tecnologías utilizadas: Python, REST, HTML, CSS, Bootstrap, JSON, Javascript, jQuery, PostgreSql, Svn, Django, Git, Angularjs, SCRUM.
 
 ## 💬 Idiomas
     - Inglés : B2
-    - Español: nativo 
+    - Español: nativo
 
 ## 👩🏼‍🎓 Educación
 
