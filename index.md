@@ -4,10 +4,15 @@
  [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leiladip33@gmail.com)
  [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leila-deyanira-inagas/)
  [![General badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linagas)
-
-
-
+ 
 ## 👩🏼‍💻 Experiencia técnica
+
+> ###  **Frontend Software Enginner** [Coderio](https://www.linkedin.com/company/coderio/mycompany/) (Abril de 2022 - presente)
+> Desarrollo en el Equipo PostVenta para Cencosud
+> - Implementación de nuevas funciones que mejoran la interfaz de usuario y la accesibilidad de la plataforma
+> - Desarrollo de nuevas funcionalidades a nivel de frontend.
+> - Implementación de Test unitarios.
+> - Tecnologías utilizadas: React 18, TypeScript, Jest, HTML, CSS, Bootstrap, Material UI, Postman.
 
 > ###  **Ingeniero Fullstack** [Ingeniería de Sistemas O.G.R.S.A.](https://www.linkedin.com/company/open-green-road/mycompany/) (Enero de 2020 - presente)
 > Plataforma edtech que busca impactar a las comunidades educativas.
@@ -55,7 +60,7 @@
 > - Tecnologías utilizadas: Python, REST, HTML, CSS, Bootstrap, JSON, Javascript, jQuery, PostgreSql, Svn, Django, Git, Angularjs, SCRUM.
 
 ## 💬 Idiomas
-    - Inglés : B2
+    - Inglés : básico
     - Español: nativo
 
 ## 👩🏼‍🎓 Educación
