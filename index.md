@@ -7,6 +7,16 @@
 [![General badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linagas)
 
 ## 👩🏼‍💻 Experiencia técnica
+> ### **Frontend Developer** [Muruna]([https://www.linkedin.com/company/coderio/mycompany/](https://muruna.cl/)) (Abril de 2023 - Actualidad)
+>
+> Desarrollo Frontend para BCI
+> 
+> - Desarrollo de nuevos aplicativos en la web publica del BCI.
+> - Implementación de nuevas funciones que mejoran la interfaz de usuario y la accesibilidad de la plataforma
+> - Manejo de buenas practicas.
+> - Creación de HDU´s.
+> - Implementación de Test unitarios.
+> - Tecnologías utilizadas: Angular 14, TypeScript, Jest, HTML, CSS, Bootstrap, Material UI, Postman, Jenkins.
 
 > ### **Frontend Software Enginner** [Coderio](https://www.linkedin.com/company/coderio/mycompany/) (Abril de 2022 - Abril de 2023)
 >
