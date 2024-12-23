@@ -93,4 +93,4 @@
 
 ## 📜 Ceritificaciones
 
-> - [![JSA – Certified Associate JavaScript Programmer](https://images.credly.com/size/680x680/images/1caaf2ab-b8aa-4bed-965e-2a7c433e35a3/image.png)](https://www.credly.com/badges/a8001191-8040-47a1-8d86-f182f4e5afa7/linked_in_profile)
+> - [JSA – Certified Associate JavaScript Programmer](https://www.credly.com/badges/a8001191-8040-47a1-8d86-f182f4e5afa7/linked_in_profile)
