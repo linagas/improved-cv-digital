@@ -35,6 +35,7 @@ Actualmente centrada en proyectos con **TypeScript, Next.js, Angular, Node.js y 
 ### 🧩 Frontend Developer — [Muruna](<[https://www.linkedin.com/company/coderio/mycompany/](https://muruna.cl/)>) <!-- (Abril de 2023 - Actualidad) -->
 
 Desarrollo y mejoras de nuevos aplicativos en la web publica del BCI.
+
 **Responsabilidades:**
 
 - Implementación de nuevas funciones que mejoran la interfaz de usuario y la accesibilidad de la plataforma en **Angular 14 + Node.js + TypeScript**.
@@ -47,6 +48,7 @@ Desarrollo y mejoras de nuevos aplicativos en la web publica del BCI.
 ### 🧩 Frontend Software Enginner — [Coderio](https://www.linkedin.com/company/coderio/mycompany/) <!-- (Abril de 2022 - Marzo de 2023)-->
 
 Desarrollo frontend en el Equipo PostVenta para Cencosud.
+
 **Responsabilidades:**
 
 - Desarrollo e implementación de nuevas funciones que mejoran la interfaz de usuario y la accesibilidad de la plataforma en **React + Node.js + TypeScript**.
