@@ -1,57 +1,57 @@
 
-📍 Chillan, Chile  
-📧 [leila.inagas@gmail.com](mailto:leila.inagas@gmail.com)  
-🌐 [https://linagas.github.io/improved-cv-digital](https://linagas.github.io/improved-cv-digital)
+ 📍 Chillan, Chile  
+ 📧 [leila.inagas@gmail.com](mailto:leila.inagas@gmail.com)  
+ 🌐 [https://linagas.github.io/improved-cv-digital](https://linagas.github.io/improved-cv-digital)
 
-[![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leiladip33@gmail.com) [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leiladip/) [![General badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linagas)
+ [![General badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leiladip33@gmail.com) [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leiladip/) [![General badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linagas)
 
----
+ ---
 
-## 👩🏼‍💻 Perfil profesional
+ ## 👩🏼‍💻 Perfil profesional
 
-Ingeniera de software con más de 10 años de experiencia desarrollando soluciones fullstack en entornos web y APIs escalables.  
-Apasionada por la programación, la arquitectura modular y las buenas prácticas de desarrollo.  
-Actualmente centrada en proyectos con **TypeScript, Next.js, Angular, Node.js y MongoDB**, con foco en integrar servicios externos y automatizar procesos.
-
----
-
-## 🛠️ Habilidades técnicas
-
-**Lenguajes:** TypeScript, JavaScript, Python, PHP, Ruby, NodeJS
-**Frameworks:** Next.js, Angular, Node.js, React  
-**Bases de datos:** MongoDB, MySQL, PostgreSQL  
-**Cloud & DevOps:** Vercel, Google Cloud, Docker, CI/CD (GitHub Actions)  
-**Testing:** Jest, Cypress
-**Integraciones:** Dillon Gage, Avalara, Transbank, SendGrid, Cloudinary  
-**Otros:** RESTful APIs, Git, SCRUM
+ Ingeniera de software con más de 10 años de experiencia desarrollando soluciones fullstack en entornos web y APIs escalables.  
+ Apasionada por la programación, la arquitectura modular y las buenas prácticas de desarrollo.  
+ Actualmente centrada en proyectos con **TypeScript, Next.js, Angular, Node.js y MongoDB**, con foco en integrar servicios externos y automatizar procesos.
 
 ---
 
-## 💼 Experiencia profesional
+ ## 🛠️ Habilidades técnicas
 
-### 🧩 Frontend Developer — [Muruna](<[https://www.linkedin.com/company/coderio/mycompany/](https://muruna.cl/)>) (Abril de 2023 - Actualidad)
+ **Lenguajes:** TypeScript, JavaScript, Python, PHP, Ruby, NodeJS
+ **Frameworks:** Next.js, Angular, Node.js, React  
+ **Bases de datos:** MongoDB, MySQL, PostgreSQL  
+ **Cloud & DevOps:** Vercel, Google Cloud, Docker, CI/CD (GitHub Actions)  
+ **Testing:** Jest, Cypress
+ **Integraciones:** Dillon Gage, Avalara, Transbank, SendGrid, Cloudinary  
+ **Otros:** RESTful APIs, Git, SCRUM
 
-Desarrollo y mejoras de nuevos aplicativos en la web publica del BCI.
+---
 
-**Responsabilidades:**
+ ## 💼 Experiencia profesional
 
-- Implementación de nuevas funciones que mejoran la interfaz de usuario y la accesibilidad de la plataforma en **Angular 14 + Node.js + TypeScript**.
-- Integración de **GoogleMaps** para funciones de geolocalizacion, **Google Analytics** para seguimiento y metricas
-- Creación de componentes reutilizables.
-- Definición y colaboración en los procesos de documentación y definición de historias de usuarios.
+ ### 🧩 Frontend Developer — [Muruna](<[https://www.linkedin.com/company/coderio/mycompany/](https://muruna.cl/)>) (Abril de 2023 - Actualidad)
 
-**Tecnologías:** Angular 14, NodeJS, TypeScript, Jest, HTML, CSS, Bootstrap, Material UI, Postman, Jenkins
+ Desarrollo y mejoras de nuevos aplicativos en la web publica del BCI.
 
-### 🧩 Frontend Software Enginner — [Coderio](https://www.linkedin.com/company/coderio/mycompany/) (Abril de 2022 - Marzo de 2023)
+ **Responsabilidades:**
 
-Desarrollo frontend en el Equipo PostVenta para Cencosud.
+  - Implementación de nuevas funciones que mejoran la interfaz de usuario y la accesibilidad de la plataforma en **Angular 14 + Node.js + TypeScript**.
+  - Integración de **GoogleMaps** para funciones de geolocalizacion, **Google Analytics** para seguimiento y metricas
+  - Creación de componentes reutilizables.
+  - Definición y colaboración en los procesos de documentación y definición de historias de usuarios.
 
-**Responsabilidades:**
+ **Tecnologías:** Angular 14, NodeJS, TypeScript, Jest, HTML, CSS, Bootstrap, Material UI, Postman, Jenkins
 
-- Desarrollo e implementación de nuevas funciones que mejoran la interfaz de usuario y la accesibilidad de la plataforma en **React + Node.js + TypeScript**.
-- Implementación de Test unitarios.
-- Creación de hooks reutilizables.
-- Definición y colaboración en los procesos de documentación y definición de historias de usuarios.
+ ### 🧩 Frontend Software Enginner — [Coderio](https://www.linkedin.com/company/coderio/mycompany/) (Abril de 2022 - Marzo de 2023)
+
+ Desarrollo frontend en el Equipo PostVenta para Cencosud.
+
+ **Responsabilidades:**
+
+ - Desarrollo e implementación de nuevas funciones que mejoran la interfaz de usuario y la accesibilidad de la plataforma en **React + Node.js + TypeScript**.
+  - Implementación de Test unitarios.
+  - Creación de hooks reutilizables.
+  - Definición y colaboración en los procesos de documentación y definición de historias de usuarios.
 
 **Tecnologías:** NodeJS, React 18, TypeScript, Jest, HTML, CSS, Bootstrap, Material UI, Postman.
 
