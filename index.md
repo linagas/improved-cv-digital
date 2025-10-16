@@ -1,6 +1,3 @@
-# 💻 Leila Inagas
-
-**Software Engineer**
 
 📍 Chillan, Chile  
 📧 [leila.inagas@gmail.com](mailto:leila.inagas@gmail.com)  
